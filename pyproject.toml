@@ -1,0 +1,18 @@
+[project]
+name = "stack-overflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.4",
+    "ipykernel>=6.29.5",
+    "joblib>=1.4.2",
+    "nltk>=3.9.1",
+    "pandas>=2.2.3",
+    "polar>=0.0.127",
+    "polars>=1.29.0",
+    "scikit-learn>=1.6.1",
+    "streamlit>=1.45.0",
+    "xgboost>=3.0.0",
+]
